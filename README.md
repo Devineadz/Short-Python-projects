@@ -7,4 +7,5 @@ Filters.py includes some basic filters used in image processing, mostly implemen
 - Sobel filters for Sx and Sy
 - Orientation map using Sobel filters
 - Magnitude which calculates gradients magnitude using the Sobel filters
+
 Image used from: https://www.wikiart.org/en/vincent-van-gogh/houses-in-auvers-2-1890
