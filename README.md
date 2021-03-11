@@ -1,7 +1,7 @@
 # Short-Python-projects
 This repository includes shorter projects and assignments made with Python
 
-Filters.py includes some basic filters used in image processing, mostly implemented without libraries (eg. openCV):
+Filters.py includes some basic filters used in image processing created for Computer Vision class, mostly implemented without libraries (eg. openCV):
 - Resize function to resize an image to be n size smaller
 - Gaussian filter implementation
 - Sobel filters for Sx and Sy
